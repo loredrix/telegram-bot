@@ -4,7 +4,7 @@ from aiogram.types import *
 from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
 
-BOT_TOKEN = "8575624948:AAE-21uEbI4EA4FoVqouMS8Ek4rRwLuIo5I"
+BOT_TOKEN = "8575624948:AAG16czSouo78azbEOp-Lg7_yfjKUm6eLsg"
 GROUP_ID = "1002148244160"
 ADMIN_IDS = "1311250812"
 
